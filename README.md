@@ -1,5 +1,9 @@
 # AI-Powered Smart Travel Planner
 
+🔗 **Live Demo:** [smart-travel-planner123.streamlit.app](https://smart-travel-planner123.streamlit.app/)
+
+A travel planning web app built with Python and Streamlit...
+
 A travel planning web app built with Python and Streamlit. It suggests destinations based on your daily budget and trip preferences, shows live weather for any city, and generates a day-wise itinerary automatically.
 
 This is a working prototype (MVP) — built as the first version of a larger AI/ML based travel planning system.
