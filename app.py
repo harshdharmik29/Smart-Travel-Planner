@@ -12,6 +12,16 @@ from itinerary_generator import generate_itinerary
 
 st.set_page_config(page_title="AI Smart Travel Planner", page_icon="🧳", layout="wide")
 
+st.markdown(
+    """
+    <style>
+    .stApp {
+        background-color: #f0f5f9;
+    }
+    </style>
+    """,
+    unsafe_allow_html=True
+)
 # ----------------- Helper: icons -----------------
 TYPE_ICONS = {
     "City/Heritage": "🏛️",
